@@ -8,6 +8,10 @@ Implementation of the 3DMM deep face reconstruction method with train and test c
 
 This is an experiment that was done many years ago. Now I release the code if anyone needs it.
 
+### Qualitative Results
+
+See `assets/images` and `assets/results`.
+
 ### Usage
 
 ##### Prerequisites
