@@ -1,0 +1,6 @@
+**/__pycache__/
+*.out
+.idea
+params/bfm/*.npy
+params/bfm/*.mat
+params/model_ir_se50.pth
