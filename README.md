@@ -10,6 +10,8 @@ This is an experiment that was done many years ago. Now I release the code if an
 
 ### Qualitative Results
 
+![Selected Results (rendered reconstructed faces)](./assets/overview.png)
+
 See `assets/images` and `assets/results`.
 
 ### Usage
